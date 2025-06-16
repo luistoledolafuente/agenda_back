@@ -78,7 +78,7 @@ API REST para la gestión de contactos personales, construida con Node.js, Expre
 
 ## 👤 Autor
 
-- [Tu Nombre Aquí]
+- Luis Miguel Toledo La Fuente
 
 ---
 
